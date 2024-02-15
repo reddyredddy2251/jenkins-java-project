@@ -12,17 +12,17 @@
         <a href="#"><img src="images/logo.svg" alt="logo"></a>
     </nav>
     <div class="form-wrapper">
-    <h2>NETFLIX SIGN IN V-25.3.6.1</h2>
+    <h2>NETFLIX SIGN IN V-2.3.6</h2>
         <form action="#">
             <div class="form-control">
                 <input type="text" required>
-                <label>Email or number</label>
+                <label>Email or Phone number</label>
             </div>
             <div class="form-control">
                 <input type="password" required>
                 <label>SECRET</label>
             </div>
-            <button type="submit">ENJOY THE NETFLIX</button>
+            <button type="submit">WELCOME TO NETFLIX</button>
             <div class="form-help"> 
                 <div class="remember-me">
                     <input type="checkbox" id="remember-me">
